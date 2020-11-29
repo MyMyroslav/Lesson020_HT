@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson020_HT", "Lesson020_HT\Lesson020_HT.csproj", "{63499E39-D25E-46E1-840E-87FCC58C8428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson020_HT_Task2", "Lesson020_HT_Task2\Lesson020_HT_Task2.csproj", "{2BDBB042-1F99-496B-884D-1D5DE38E60CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63499E39-D25E-46E1-840E-87FCC58C8428}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{63499E39-D25E-46E1-840E-87FCC58C8428}.Debug|anycpu.Build.0 = Debug|anycpu
+		{63499E39-D25E-46E1-840E-87FCC58C8428}.Release|anycpu.ActiveCfg = Release|anycpu
+		{63499E39-D25E-46E1-840E-87FCC58C8428}.Release|anycpu.Build.0 = Release|anycpu
+		{2BDBB042-1F99-496B-884D-1D5DE38E60CF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2BDBB042-1F99-496B-884D-1D5DE38E60CF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2BDBB042-1F99-496B-884D-1D5DE38E60CF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2BDBB042-1F99-496B-884D-1D5DE38E60CF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E03AE5A-704D-4539-AF96-F521970C05A8}
+	EndGlobalSection
+EndGlobal
